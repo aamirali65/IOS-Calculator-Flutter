@@ -1,5 +1,9 @@
 # calculator
 
+Screenshot
+![calculator](https://github.com/aamirali65/IOS-Calculator-Flutter/assets/103622237/fc8591ce-7e00-426a-a275-f28ff0f2e13b)
+
+
 A new Flutter project.
 
 ## Getting Started
